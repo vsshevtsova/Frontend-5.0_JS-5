@@ -14,7 +14,7 @@ containerBox[0].prepend(div);
 containerBox[0].insertAdjacentHTML("beforeend", "<h3> Избранные актрисы</h3>");
 containerBox[0].insertAdjacentHTML(
   "beforeend",
-  '<img src="./img/star.jpg" width = 20%>'
+  '<img src="../img/star.jpg" width = 20%>'
 );
 
 titleText.forEach((item) => {
